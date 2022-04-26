@@ -6,4 +6,4 @@ A small Blog Website created using:
 * NoSQL
 * Node.js
 * Express.js
-* MongoDB
+* MongoDB -> in progress
